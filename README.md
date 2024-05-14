@@ -5,3 +5,5 @@ I dont take any credit for the spinning cube its a cpp program i moved to javasc
 See:
 https://github.com/servetgulnaroglu/cube.c
 for orginal C code
+
+I dont own the unreal tournament image or music either
